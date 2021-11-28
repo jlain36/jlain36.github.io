@@ -2,7 +2,7 @@
 
 **Link to Repository**
 
-[Enhancement Three Repository]()
+[Enhancement Three Repository](https://github.com/jlain36/Enhancement_Three)
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://jlain36.github.io/index.html)<br>
