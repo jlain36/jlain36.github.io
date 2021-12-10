@@ -1,4 +1,4 @@
-## Enhancement One: Software Engineering & Design
+## Enhancement One: Software Design & Engineering
 
 I chose to enhance an OpenGL/C++ project/artifact that I originally created as the final project for the CS-330 Computational Graphics and Visualization course. This project is a computer graphics generated scene showcasing a school setting. The scene itself features several primitive shapes, lighting, and object texturing.
 
@@ -15,7 +15,7 @@ I learned that good code comments make all of the difference. Had it not been fo
 
 **Link to Repository**
 
-###### Note: The original project is also available at the following link
+* Note: The original project is also available at the following link:*
 
 [Enhancement One Repository](https://github.com/jlain36/Enhancement_One)
 
