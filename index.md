@@ -1,5 +1,3 @@
-# CS-499 ePortfolio
-
 ## Introduction
 
 I will start by saying this program was certainly not easy. It takes a lot of passion, dedication, and sacrifice to successfully complete the course requirements for this degree. While I’ve learned so many important concepts and skills throughout this program, the most important skill I’ve learned is perseverance. It is difficult to struggle with a course, but through hard work and perseverance I have learned that anything is possible with the right attitude and mindset. There is no greater feeling than succeeding when challenged by a seemingly impossible tasking. 
