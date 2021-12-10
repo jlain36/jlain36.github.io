@@ -15,6 +15,8 @@ I learned that good code comments make all of the difference. Had it not been fo
 
 **Link to Repository**
 
+###### Note: The original project is also available at the following link
+
 [Enhancement One Repository](https://github.com/jlain36/Enhancement_One)
 
 **Porfolio Links**<br>
