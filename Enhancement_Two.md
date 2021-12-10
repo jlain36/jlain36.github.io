@@ -1,4 +1,4 @@
-## Enhancement Two: Data Structures and Algorithms
+## Enhancement Two: Data Structures & Algorithms
 
 I chose to enhance the final project for IT-145: Foundation in Application development for the data structures and algorithms component of the CS-499 Capstone project. This project was originally developed in August 2018. This project uses the Java programming language. It was developed using the NetBeans IDE version 8.2. This program is a Zoo Monitoring System that monitors Zoo animals and animal habitats.  
 
