@@ -1,8 +1,8 @@
 # CS-499 ePortfolio
 
-## Refinement Plan & Code Review
+## Refinement Plan and Code Review
 
-**Enhancement One: Software Design/Engineering**
+**Enhancement One: Software Design and Engineering**
 
 For this category, I have chosen to revisit the CS-330 Final Project from the Computational Graphics and Visualization course. This course utilized C++ and OpenGL. I created a scene which comprised of a school setting, complete with a desk, chair, books, plane, cylinder, and a globe. For my enhancement to this artifact, I would like to add a chalk board with a stand to my scene. I wanted to add these features when I was taking the course, but I ran out of time and was never able to implement it. I will need to create the geometry necessary to render the chalk board with the stand. I will also need to create a new Vertex Buffer Object (VBO), and texture coordinates for this addition. Finally, I will need to create and render this new primitive in the main while loop in the code.
 
