@@ -1,4 +1,4 @@
-## Enhancement One: Software Design and Engineering
+## Enhancement One: Software Design & Engineering
 
 I chose to enhance an OpenGL/C++ project/artifact that I originally created as the final project for the CS-330 Computational Graphics and Visualization course. This project is a computer graphics generated scene showcasing a school setting. The scene itself features several primitive shapes, lighting, and object texturing.
 
