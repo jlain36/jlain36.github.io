@@ -1,5 +1,3 @@
-# CS-499 ePortfolio
-
 ## Refinement Plan and Code Review
 
 **Enhancement One: Software Design and Engineering**
