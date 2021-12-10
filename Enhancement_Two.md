@@ -21,7 +21,7 @@ The biggest thing I learned from this project is the fact that the Java programm
 
 **Link to Repository**
 
-**Note: The original project is also available at the following link:**
+(Note: The original project is also available at the following link)
 
 [Enhancement Two Repository](https://github.com/jlain36/Enhancement_Two)
 
