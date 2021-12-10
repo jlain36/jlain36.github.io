@@ -1,4 +1,4 @@
-## Refinement Plan and Code Review
+## Refinement Plan & Code Review
 
 **Enhancement One: Software Design and Engineering**
 
