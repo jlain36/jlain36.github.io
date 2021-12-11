@@ -16,7 +16,7 @@ CS-330 Final Project Before Enhancements
 ![CS-330 Final Project Before Enhancements](images/artifactonebeforeenhancements.jpg)
 
 CS-330 Final Project After Enhancements
-![CS-330 Final Project After Enhancements](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_One_After_Enhancements.PNG)
+![CS-330 Final Project After Enhancements](images/artifactoneafterenhancements.jpg)
    
 
 **Link to Repository**
