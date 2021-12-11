@@ -12,24 +12,6 @@ Rendering graphical objects is not easy. I had to go back and relearn the nuts a
 
 I learned that good code comments make all of the difference. Had it not been for the comments, the enhancements would have been much more difficult to implement. Additionally, I learned that I didn’t need to create a new VBO for my enhancements. I was mistaken with my initial assessment that an additional VBO would be needed. One of the hardest aspects of modifying this artifact was the positioning and scaling of the newly added primitive shapes. It is a very tedious and time-consuming undertaking. Every object’s movement has to be in relation to the scene origin. Keeping the X, Y, and Z coordinates the same for each object is very challenging. Below, I added screenshots for my enhancements for this artifact.
 
-Pseudocode for Enhancement One:
-
-BEGIN
-INITIALIZE VBO 4
-INITIALIZE Chalk_Board() function prototype
-INITIALIZE Chalk_Board_Stand() function prototype
-INITIALIZE uniform vector variables in fragment shader source code
-CREATE ChalkBoard mesh
-CREATE ChalkBoardStand mesh
-LOAD textures
-DEFINE the texture units
-WHILE window should close is FALSE 
-	CALL Chalk_Board() function
-	CALL Chalk_Board_Stand() function
-		RENDER screen objects
-		DISPLAY screen objects
-	END WHILE
-END
 
 CS-330 Final Project Before Enhancements
 ![CS-330 Final Project Before Enhancements](images/artifactonebeforeenhancements.jpg)
