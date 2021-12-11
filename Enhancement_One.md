@@ -13,7 +13,7 @@ Rendering graphical objects is not easy. I had to go back and relearn the nuts a
 I learned that good code comments make all of the difference. Had it not been for the comments, the enhancements would have been much more difficult to implement. Additionally, I learned that I didn’t need to create a new VBO for my enhancements. I was mistaken with my initial assessment that an additional VBO would be needed. One of the hardest aspects of modifying this artifact was the positioning and scaling of the newly added primitive shapes. It is a very tedious and time-consuming undertaking. Every object’s movement has to be in relation to the scene origin. Keeping the X, Y, and Z coordinates the same for each object is very challenging. Below, I added screenshots for my enhancements for this artifact.
 
 CS-330 Final Project Before Enhancements
-![CS-330 Final Project Before Enhancements](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_One_Before_Enhancements.PNG)
+![CS-330 Final Project Before Enhancements](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/artifactonebeforeenhancements.jpg)
 
 CS-330 Final Project After Enhancements
 ![CS-330 Final Project After Enhancements](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_One_After_Enhancements.PNG)
