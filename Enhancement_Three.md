@@ -19,6 +19,18 @@ Connecting to servers is actually not that hard in C# and MS SQL, provided you h
 CS-244 Final Database Secure Authentication
 ![CS-244 Final Database Secure Authentication](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Secure_Login.JPG)
 
+CS-244 Final Database Secure Authentication Failed Error
+![CS-244 Final Database Secure Authentication Failed](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Loging_Failed_User_Authentication.JPG)
+
+CS-244 Final Database Created Successfully
+![CS-244 Final Database Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Created_Successfully.JPG)
+
+CS-244 Final Database Already Exists Error
+![CS-244 Final Database Already Exists Error](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Already_Exists_Error.JPG)
+
+CS-244 Final Database Table Created Successfully
+![CS-244 Final Database Table Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Table_Created_Successfully.JPG)
+
 
 **Link to Repository**
 
