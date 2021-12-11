@@ -21,6 +21,15 @@ The biggest thing I learned from this project is the fact that the Java programm
 IT-145 Final Project Before Enhancements
 ![IT-145 Final Project Before Enhancements](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_Two_Before_Enhancements.png)
 
+IT-145 Final Project After Enhancements
+![IT-145 Final Project After Enhancement 1](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_Two_After_Enhancements_1.png)
+
+IT-145 Final Project After Enhancements
+![IT-145 Final Project After Enhancement 2](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_Two_After_Enhancements_2.png)
+
+IT-145 Final Project After Enhancements
+![IT-145 Final Project After Enhancement 3](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Artifact_Two_After_Enhancements_3.png)
+
 
 **Link to Repository**
 
