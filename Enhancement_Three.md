@@ -16,20 +16,20 @@ This project was a lot of fun for me, especially learning C#. The biggest challe
 
 Connecting to servers is actually not that hard in C# and MS SQL, provided you have the appropriate privileges and skills to do so. Additionally, I learned that the error handling in C# is awesome. For me this whole project was a huge learning curve. This project would have been more difficult to program in C++ in my opinion. Another awesome feature of C# that I learned is the ability to effortlessly add resources and built-in assemblies (dll’s) to the project. So basically, just about any C# template in MS Visual Studio will work regardless of the project. The figures below highlight my programs’ functionality.  
 
-CS-244 Final Database Secure Authentication
-![CS-244 Final Database Secure Authentication](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Secure_Login.JPG)
+Database Secure Authentication
+![Database Secure Authentication](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Secure_Login.JPG)
 
-CS-244 Final Database Secure Authentication Failed Error
-![CS-244 Final Database Secure Authentication Failed](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Loging_Failed_User_Authentication.JPG)
+Database Secure Authentication Failed Error
+![Database Secure Authentication Failed](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Loging_Failed_User_Authentication.JPG)
 
-CS-244 Final Database Created Successfully
-![CS-244 Final Database Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Created_Successfully.JPG)
+Database Created Successfully
+![Database Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Created_Successfully.JPG)
 
-CS-244 Final Database Already Exists Error
-![CS-244 Final Database Already Exists Error](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Already_Exists_Error.JPG)
+Database Already Exists Error
+![Database Already Exists Error](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Already_Exists_Error.JPG)
 
-CS-244 Final Database Table Created Successfully
-![CS-244 Final Database Table Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Table_Created_Successfully.JPG)
+Database Table Created Successfully
+![Database Table Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Table_Created_Successfully.JPG)
 
 
 **Link to Repository**
