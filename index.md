@@ -1,6 +1,6 @@
-## Introduction
+## Portfolio Introduction
 
-I will start by saying this program was certainly not easy. It takes a lot of passion, dedication, and sacrifice to successfully complete the course requirements for this degree. While I’ve learned so many important concepts and skills throughout this program, the most important skill I’ve learned is perseverance. It is difficult to struggle with a course, but through hard work and perseverance I have learned that anything is possible with the right attitude and mindset. There is no greater feeling than succeeding when challenged by a seemingly impossible tasking. 
+I will start by saying the Computer Science degree program at SNHU was certainly not easy. It takes a lot of passion, dedication, and sacrifice to successfully complete the course requirements for this degree. While I’ve learned so many important concepts and skills throughout this program, the most important skill I’ve learned is perseverance. It is difficult to struggle with a course, but through hard work and perseverance I have learned that anything is possible with the right attitude and mindset. There is no greater feeling than succeeding when challenged by a seemingly impossible tasking. 
 
 Another skill that I feel is essential in the field of Computer Science is the Object-Oriented Programming (OOP) paradigm. This program taught me the inner-workings and architecture of OOP. The Agile framework, the Software Development Lifecycle, and programming in several languages are other skills I have attained through this program of study. 
 
