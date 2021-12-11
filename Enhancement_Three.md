@@ -14,7 +14,10 @@ In addition, the features I added to this project implements computer solutions 
 
 This project was a lot of fun for me, especially learning C#. The biggest challenge I faced was connecting C# to MS SQL. This took me a lot of time and tinkering to get working. Another challenging aspect was the secure password authentication. I really wanted to get this feature working, and I was proud of myself and my abilities when I did. I learned that C# is a very powerful language. While I basically scratched the surface with C#, I plan to continue learning the language because I see the value of its functionality. 
 
-Connecting to servers is actually not that hard in C# and MS SQL, provided you have the appropriate privileges and skills to do so. Additionally, I learned that the error handling in C# is awesome. For me this whole project was a huge learning curve. This project would have been more difficult to program in C++ in my opinion. Another awesome feature of C# that I learned is the ability to effortlessly add resources and built-in assemblies (dll’s) to the project. So basically, just about any C# template in MS Visual Studio will work regardless of the project. The figures below highlight my programs’ functionality.   
+Connecting to servers is actually not that hard in C# and MS SQL, provided you have the appropriate privileges and skills to do so. Additionally, I learned that the error handling in C# is awesome. For me this whole project was a huge learning curve. This project would have been more difficult to program in C++ in my opinion. Another awesome feature of C# that I learned is the ability to effortlessly add resources and built-in assemblies (dll’s) to the project. So basically, just about any C# template in MS Visual Studio will work regardless of the project. The figures below highlight my programs’ functionality.  
+
+CS-244 Final Database Secure Authentication
+![CS-244 Final Database Secure Authentication](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Secure Login.JPG)
 
 
 **Link to Repository**
