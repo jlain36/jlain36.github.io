@@ -31,6 +31,9 @@ Database Already Exists Error
 Database Table Created Successfully
 ![Database Table Created Successfully](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Database_Table_Created_Successfully.JPG)
 
+Database Table Populated in MS SQL
+![Database Table Populated](https://github.com/jlain36/jlain36.github.io/blob/main/docs/assets/images/Populated_Database_Table_SQL.JPG)
+
 
 **Link to Repository**
 
