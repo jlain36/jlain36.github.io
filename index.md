@@ -22,7 +22,7 @@ Enhancement Three was not an enhancement. It is a new program demonstrating my i
 
 ## The Future
 
-I plan to position myself professionally by continuing to learn. Computer Science is a field that continuously evolves over time. To stay competitive, with the highest potential for employability, life long learning has to be of a high priority. I plan to pursue a software engineering career after I graduate. I know the software engineering field is highly competitive, but it is a passion of mine, and I will work as hard as possible to succeed in this field. Like I stated in my introduction, perseverance, hard work, and passion really are the keys for success.      
+I plan to position myself professionally by continuing to learn. Computer Science is a field that continuously evolves over time. To stay competitive, with the highest potential for employability, lifelong learning has to be of a high priority. I plan to pursue a software engineering career after I graduate. I know the software engineering field is highly competitive, but it is a passion of mine, and I will work as hard as possible to succeed in this field. Like I stated in my introduction, perseverance, hard work, and passion really are the keys for success.      
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://jlain36.github.io/index.html)<br>
