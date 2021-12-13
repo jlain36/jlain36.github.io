@@ -18,7 +18,7 @@ This portfolio shines light on my competence and skills within Computer Science.
 
 Enhancement Two showcases my skills with implementing and modifying the select case Data Structure within the Java programming language for a Zoo Monitoring System program. Enhancement Two exemplifies my knowledge and expertise of manipulating a Data Structure utilizing a menu driven Algorithm. This could have been achieved with several other data structures; however, I believe the select case data structure was the most appropriate for this artifact.
 
-Enhancement Three was not an enhancement. It is a new program demonstrating my ingenuity and skills with creating a school database project using the C# programming language and Microsoft SQL Server Management Suite. I created a database client using C#. I learned C# specifically for this project. This project demonstrates my ability to learn a new programming language quickly and integrate it with an existing database management system. I have a passion for programming and 
+Enhancement Three was not an enhancement. It is a new program demonstrating my ingenuity and skills with creating a school database project using the C# programming language and Microsoft SQL Server Management Suite. I created a database client using C#. I learned C# specifically for this project. This project demonstrates my ability to learn a new programming language quickly and integrate it with an existing database management system. I have a passion for programming and software engineering.
 
 ## The Future
 
